@@ -11,17 +11,17 @@ NetLogo 6.4.0
 ## Operation
 initial state
 
-<img width="100"  alt="image" src="https://github.com/user-attachments/assets/d890adff-a37c-4eaa-9ea7-018e32fd38f5" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/d890adff-a37c-4eaa-9ea7-018e32fd38f5" />
 
   
 With “setup-random,” two types of organisms are randomly placed, and the cells are set to a living state.
 
-<img width="1247"  alt="image" src="https://github.com/user-attachments/assets/2b757f7b-5dd4-4356-99b0-4440fc0551a8" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/2b757f7b-5dd4-4356-99b0-4440fc0551a8" />
 
 
 Continue advancing the cell state with `go-forever`.
 
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/dd9c3c8d-707d-417c-8be0-4a0b2ef0ba79" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/dd9c3c8d-707d-417c-8be0-4a0b2ef0ba79" />
 
 
 `count species`: Shows the survival rates of each of the two species.
