@@ -16,7 +16,7 @@ With “setup-random,” two types of organisms are randomly placed, and the cel
 <img width="2547" height="1247" alt="image" src="https://github.com/user-attachments/assets/2b757f7b-5dd4-4356-99b0-4440fc0551a8" />
 
 Continue advancing the cell state with `go-forever`.
-<img width="300" height="1255" alt="image" src="https://github.com/user-attachments/assets/dd9c3c8d-707d-417c-8be0-4a0b2ef0ba79" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/dd9c3c8d-707d-417c-8be0-4a0b2ef0ba79" />
  <img src="https://ooma.ska.life.tsukuba.ac.jp/codimd/uploads/f46bd40a-2666-4757-b227-443489fc6652.png" width="300">
 
 `count species`: Shows the survival rates of each of the two species.
